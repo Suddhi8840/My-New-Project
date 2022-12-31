@@ -1,0 +1,136 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family:'merriweather', serif; }
+ h1{
+    font-size: 5.625em;  
+    font-family:"brush script MT";
+    color: #66BFBF;
+    line-height:0.5;
+   }
+
+ h2{
+    font-family:'montserrat', sans-serif;
+    font-size: 2.5em;
+    color: #66BFBF;
+    font-weight: normal;
+ }
+ h3{
+    font-family:'montserrat', sans-serif;
+    color: #11999E;
+ }
+
+ p{
+    font-family:serif ;
+ }
+
+.top-container{
+    background-color: rgb(239, 246, 244);
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin-top:50px auto 0 auto;
+}
+
+.bottom-container{
+    background: #66BFBF;
+    margin-top: 50px;
+    padding: 50px 0 20px;
+}
+p{
+    line-height:1.7;
+}
+.skill-row{
+   width: 50%;
+   margin:100px auto 100px auto;
+   text-align:left;
+
+}
+
+span{
+    text-decoration:underline;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.mountain-img{
+    height: 300px;
+}
+
+.my-profile {
+    border:1px solid;
+    border-radius:50%;
+    margin-top: 60px;
+}
+
+a{
+    color: #11999E;
+    font-family:'montserrat', sans-serif;
+    margin: 10px 20px ;
+    text-decoration: none;
+}
+a:hover{
+   color: #E4F9F5;
+}
+
+.computer{
+  float: left;
+  margin-right: 30px;
+  border: 1px solid;
+  border-radius: 50%;
+}
+
+.Enggineer{
+   float: right;
+   margin-left: 30px;
+   border: 1px solid;
+   border-radius: 50%;
+}
+
+hr{
+   border:dotted #EAF6F6 6px;
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto;
+}
+.introduction{
+    width:35%;
+    margin: auto;
+}
+.Contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    background-color:#11999E;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none; 
+    font-family:'montserrat', sans-serif;
+    cursor:pointer;
+   
+}
+.btn:hover{
+    background: #30e3bc;
+}
+
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
